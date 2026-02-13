@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=200&section=header&text=Md%20Aiub%20Mondol&fontSize=40&fontColor=00ff00&animation=fadeIn&fontAlignY=35"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
+</p>
 
 
 <p align="center">

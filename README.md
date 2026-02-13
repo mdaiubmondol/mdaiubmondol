@@ -5,10 +5,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&pause=1000&color=000000&center=true&vCenter=true&width=900&height=120&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
-</p>
+  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&pause=1000&color=222222&center=true&vCenter=true&width=900&height=120&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=900&height=120&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
 </p>
+
 
 
 <p align="center">

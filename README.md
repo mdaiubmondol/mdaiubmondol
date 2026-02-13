@@ -3,6 +3,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Keep+Coding" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />

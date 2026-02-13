@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FF00&size=35&center=true&vCenter=true&width=700&background=000000&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
+  <img src="https://readme-typing-svg.demolab.com?color=39FF14&size=35&center=true&vCenter=true&width=700&background=0D1117&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
 </p>
 
 

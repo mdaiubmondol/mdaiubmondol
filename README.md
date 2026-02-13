@@ -53,5 +53,5 @@
 ### 🔥 Motto:
 > "Code. Break. Fix. Repeat."
 >
-> ![Snake animation](https://github.com/mdaiubmondol/mdaiubmondol/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mdaiubmondol/mdaiubmondol/blob/output/github-contribution-grid-snake.svg)
 

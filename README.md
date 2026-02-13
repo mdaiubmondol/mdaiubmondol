@@ -4,6 +4,19 @@
 
 
 
+<p align="center">
+  <span style="
+    background-color:#000000;
+    color:#00ff00;
+    padding:10px 30px;
+    border-radius:8px;
+    border:2px solid #00ff00;
+    font-family:monospace;
+    font-size:18px;
+  ">
+    ⚡ Keep Coding ⚡
+  </span>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />

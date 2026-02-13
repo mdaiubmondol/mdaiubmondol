@@ -55,3 +55,5 @@
 >
 ![Snake animation](https://raw.githubusercontent.com/mdaiubmondol/mdaiubmondol/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/mdaiubmondol/mdaiubmondol/output/github-contribution-grid-snake.svg)
+

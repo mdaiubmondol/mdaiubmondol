@@ -22,7 +22,8 @@
 ### 📊 GitHub Stats:
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdaiubmondol&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mdaiubmondol&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
 
 
 

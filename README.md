@@ -6,13 +6,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/> </p>
 
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=900&height=120&background=0D1117&lines=Md+Aiub+Mondol;Keep+Coding;Linux+Enthusiast;Python+Learner;Future+Security+Expert" />
-</p>
-
-
-
 <h1 align="center">Hi 👋, I'm Md Aiub Mondol</h1>
 <h3 align="center">💻 Linux Enthusiast | 🚀 Beginner Developer | 🔐 Future Security Expert</h3>
 

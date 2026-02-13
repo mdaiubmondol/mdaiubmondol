@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />
 </p>
 
 

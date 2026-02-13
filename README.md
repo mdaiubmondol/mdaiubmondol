@@ -1,16 +1,13 @@
-<h1 align="center">
-  <span style="
-    background: linear-gradient(90deg,#000000,#0f2027,#203a43,#2c5364);
-    padding: 15px 40px;
-    border-radius: 12px;
-    color: #00ff00;
-    box-shadow: 0 0 20px #00ff00;
-    font-family: monospace;
-  ">
-    Md Aiub Mondo
-  </span>
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=200&section=header&text=Md%20Aiub%20Mondo&fontSize=40&fontColor=00ff00&animation=fadeIn&fontAlignY=35"/>
+</p>
 
+
+<h2 align="center">Hi 👋, I'm Md Aiub Mondol</h2>
+
+<h3 align="center">
+💻 Linux Enthusiast | 🚀 Beginner Developer | 🔐 Future Security Expert
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />

@@ -1,13 +1,22 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;Linux+Enthusiast;Python+Learner;Future+Security+Expert;Keep+Coding+🔥" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Aiub Mondol</h1>
 <h3 align="center">💻 Linux Enthusiast | 🚀 Beginner Developer | 🔐 Future Security Expert</h3>
 
 ---
 
 ### 🧠 About Me:
+
 - 🐧 Ubuntu User
 - 💻 Learning Python & Git
 - 🚀 Exploring Open Source
 - 🔥 Love Hacker Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -18,6 +27,12 @@
 - VS Code
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ### 📊 GitHub Stats:
 
@@ -36,3 +51,6 @@
 
 ### 🔥 Motto:
 > "Code. Break. Fix. Repeat."
+>
+> ![Snake animation](https://github.com/mdaiubmondol/mdaiubmondol/blob/output/github-contribution-grid-snake.svg)
+

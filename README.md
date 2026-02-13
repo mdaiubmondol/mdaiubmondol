@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=600&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=130&lines=>>>+Md+Aiub+Mondol;>>>+Keep+Coding;>>>+Linux+Enthusiast;>>>+Python+Learner;>>>+Future+Security+Expert" />
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=>>>+Md+Aiub+Mondol;>>>+Keep+Coding;>>>+Linux+Enthusiast;>>>+Python+Learner;>>>+Future+Security+Expert" />
+</p>
 
 
 

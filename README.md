@@ -17,14 +17,17 @@ This GitHub profile showcases Python projects, Linux experiments, and cybersecur
 
 ## About Md Aiub Mondol
 
-- Linux (Ubuntu) user  
-- Learning Python programming  
-- Exploring Git and GitHub  
-- Interested in Cybersecurity  
-- Building beginner-friendly open source projects  
+🐧 Linux (Ubuntu) user  
+💻 Learning Python programming  
+🚀 Exploring Git and GitHub  
+🔥 Interested in Cybersecurity  
+🛠️ Building beginner-friendly open source projects  
 
 Md Aiub Mondol focuses on practical coding, security fundamentals, and continuous learning.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 ---
 
 ## Tech Stack

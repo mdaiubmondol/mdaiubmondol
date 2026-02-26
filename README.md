@@ -4,13 +4,6 @@ Md Aiub Mondol is a beginner Python developer and Linux enthusiast from Banglade
 This GitHub profile showcases Python projects, Linux experiments, and cybersecurity learning progress.
 
 
-<!-- Typing Animation -->
-<p align="center">
-  <img alt="Md Aiub Mondol Skills"
-  src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Md+Aiub+Mondol;Python+Learner;Linux+Enthusiast;Open+Source+Developer;Future+Cybersecurity+Expert"/>
-</p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>

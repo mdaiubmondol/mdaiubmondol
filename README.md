@@ -75,18 +75,3 @@ Md Aiub Mondol focuses on practical coding, security fundamentals, and continuou
 ![GitHub contribution snake animation](https://raw.githubusercontent.com/mdaiubmondol/mdaiubmondol/output/github-contribution-grid-snake.svg)
 
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
-</p>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/> </p>
-
-
-
->
-![Snake animation](https://raw.githubusercontent.com/mdaiubmondol/mdaiubmondol/output/github-contribution-grid-snake.svg)
-
-
-

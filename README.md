@@ -1,6 +1,7 @@
 # Md Aiub Mondol | Python Developer & Linux Enthusiast
 
-Md Aiub Mondol is a Python developer and Linux enthusiast from Bangladesh who builds beginner-friendly open source projects using Python and Linux. He is currently learning cybersecurity fundamentals and improving his development skills through practical coding.
+Md Aiub Mondol is a Python developer and Linux enthusiast from Bangladesh.  
+He builds beginner-friendly open source projects using Python and Linux, and is currently learning cybersecurity fundamentals.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
@@ -10,7 +11,7 @@ Md Aiub Mondol is a Python developer and Linux enthusiast from Bangladesh who bu
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/>
 </p>
 
-<h3 align="center">Linux Enthusiast | Beginner Python Developer | Future Security Expert</h3>
+<h3 align="center">💻 Linux Enthusiast | 🚀 Beginner Developer | 🔐 Future Security Expert</h3>
 
 ---
 
@@ -22,7 +23,11 @@ Md Aiub Mondol is a Python developer and Linux enthusiast from Bangladesh who bu
 - 🔐 Interested in Cybersecurity  
 - 🛠️ Building Beginner-Friendly Open Source Projects  
 
-Md Aiub Mondol focuses on practical coding, security fundamentals, and continuous learning in software development and cybersecurity.
+Md Aiub Mondol focuses on practical coding, security fundamentals, and continuous learning.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 
 ---
 

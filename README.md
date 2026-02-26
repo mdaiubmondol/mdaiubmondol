@@ -13,6 +13,18 @@ This GitHub profile showcases Python projects, Linux experiments, and cybersecur
   src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=700&lines=Md+Aiub+Mondol;Python+Learner;Linux+Enthusiast;Open+Source+Developer;Future+Cybersecurity+Expert"/>
 </p>
 
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
+</p>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=35&center=true&vCenter=true&width=600&lines=Md+Aiub+Mondol;⚡+Keep+Coding;🐧+Linux+Enthusiast;🐍+Python+Learner;🔐+Future+Security+Expert"/> </p>
+
+
+<h1 align="center">Hi 👋, I'm Md Aiub Mondol</h1>
+<h3 align="center">💻 Linux Enthusiast | 🚀 Beginner Developer | 🔐 Future Security Expert</h3>
+
 ---
 
 ## About Md Aiub Mondol

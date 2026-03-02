@@ -2,7 +2,7 @@
 
 Md Aiub Mondol is a Python developer and Linux enthusiast from Bangladesh.  
 He builds beginner-friendly open source projects using Python and Linux, and is currently learning cybersecurity fundamentals.
-
+<meta name="google-site-verification" content="e43MZElWQ9mmcN2gCTwdeyoJg6_RONAos1jgbt9VxRw" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00ff00&height=220&section=header&text=Md%20Aiub%20Mondol&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=35"/>
 </p>
